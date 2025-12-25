@@ -12,12 +12,12 @@ W.I.P
 7. **Connection retry** saat host salah
 8. **Timestamp** real-time
 
-Requirement
+## Requirement
 1. Komputer (Tentu Saja)
 2. Python
 3. Tkinter
 
-How To Use
+## How To Use
 ### 1. Clone repo
 git clone https://github.com/kanashifumiku/PesanKoeAppChat.git
 cd PesanKoeAppChat
@@ -31,7 +31,10 @@ python Klien.py
 ### 4. Koneksi
 Pastikan setiap perangkat terhubung ke satu jaringan yang sama. Bebas mau via kabel / nirkabel. Internet? Gak perlu.
 
-Rencana Penambahan Fitur Selanjutnya...
+## Rencana Penambahan Fitur Selanjutnya...
 ### 1. Penambahan fitur transfer file antar perangkat.
 ### 2. Perbaikan UI/UX
+
+#
+2025 - Alpino, M./Kanashifumiku (Pinothorium Works)
 
