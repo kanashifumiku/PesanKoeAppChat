@@ -36,5 +36,5 @@ Pastikan setiap perangkat terhubung ke satu jaringan yang sama. Bebas mau via ka
 ### 2. Perbaikan UI/UX
 
 #
-2025 - Alpino, M./Kanashifumiku (Pinothorium Works)
+2025 - Alpino, M./Kanashifumiku (Pinothorium Works) <br>
 Proyek ini dibuat dengan tujuan untuk memenuhi persyaratan ujian.
